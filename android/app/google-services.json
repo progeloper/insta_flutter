@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471343532046",
+    "project_id": "insta-flutter-5239d",
+    "storage_bucket": "insta-flutter-5239d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471343532046:android:9f03f379cc357fda8bd45f",
+        "android_client_info": {
+          "package_name": "com.mayeavx.insta_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471343532046-tnuug95js265stmfdaqmkiv1kuq4p09l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMv12tZVAn0jRSb1GUaWQR1jqa7i1Yc3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471343532046-tnuug95js265stmfdaqmkiv1kuq4p09l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
